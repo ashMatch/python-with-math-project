@@ -5,4 +5,5 @@ class type_area(Enum):
     RECTANGLE =2
     TRIANGLE =3
     CIRCUNFERENCE =4
+    TRAPEZOID =5
 
